@@ -8,7 +8,7 @@
   - [x] configure redux-toolkit
   - [x] configure axios and interceptors
   - [x] configure proxy
-  - [ ] Install component library (material/ui)
+  - [x] Install component library (material/ui)
   - [ ] Feature
     - [x] Auth
       - [x] Login
