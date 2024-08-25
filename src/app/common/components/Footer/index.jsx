@@ -15,7 +15,7 @@ const Footer = () => {
         mt: 2,
       }}
     >
-      <Typography variant="h6">I am footer</Typography>
+      <Typography variant="h6">© 2024 Project Management Tool</Typography>
     </Box>
   );
 };

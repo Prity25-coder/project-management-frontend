@@ -61,3 +61,7 @@ Requirements:
     - [x] Deploy the frontend on Vercel or Netlify.
     - [x] Deploy the backend on Heroku, AWS, or any cloud provider.
     - [x] Provide a link to the GitHub repository containing the code.
+
+[click here to see live demo](https://project-management-frontend-lake.vercel.app/projects)
+
+
