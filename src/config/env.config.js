@@ -9,7 +9,7 @@ const {
 } = import.meta.env;
 
 const envConfig = Object.freeze({
-  baseUrl: String(VITE_BASE_URL),
+  baseUrl: `${String(VITE_BASE_URL)}/api/v1`,
   firebaseConfig: {
     apiKey: String(VITE_API_KEY),
     authDomain: String(VITE_AUTH_DOMAIN),
