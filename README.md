@@ -29,13 +29,13 @@
       - [x] delete project
       
     - [ ] Task
+      - [ ] ![Task Structure](https://github.com/user-attachments/assets/103561bd-f576-43c7-ba68-6d21c4b7103d)
       - [ ] Add task to the project
       - [ ] update task
       - [ ] delete task
     - [x] deploy on any cloud
       - [x] update backend url in the vite.config.js (target)
       - [x] add all env variables while deploying
-
 
 # Actual Requirement
 
