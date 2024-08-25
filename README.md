@@ -32,9 +32,9 @@
       - [ ] Add task to the project
       - [ ] update task
       - [ ] delete task
-    - [ ] deploy on any cloud
-      - [ ] update backend url in the vite.config.js (target)
-      - [ ] add all env variables while deploying
+    - [x] deploy on any cloud
+      - [x] update backend url in the vite.config.js (target)
+      - [x] add all env variables while deploying
 
 
 # Actual Requirement

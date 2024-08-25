@@ -7,7 +7,7 @@ export default defineConfig({
   server: {
     proxy: {
       "/api": {
-        target: "http://localhost:4200",
+        target: "https://project-management-backend-seven.vercel.app",
         changeOrigin: true,
         rewrite: (path) => path.replace(/^\/api/, ""), // todo
       },
